@@ -62,7 +62,3 @@ Schedule a meeting tomorrow at 3 PM in Conference Room A with Alice and Bob abou
 - Integrate with Google Calendar API or Outlook Calendar.
 - Add UI for easier interaction.
 - Extend to recurring events or reminders.
-
-## 📄 License
-
-This project is licensed under the MIT License.
